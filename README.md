@@ -1,6 +1,6 @@
 # Raspberry Pi Photo Frame 
 ### (Original date: 5/14/2017)
-#### More information + photos on my [blog post here](https://benmitchinson.com/2017/05/14/Mothers-Day-Photo-Frame)
+#### More information + photos on my [blog post here](https://benmitchinson.com/2017/05/14/Mothers-Day-Photo-Frame/)
 
 Start (Day 1)             |  Final (Day 3)
 :-------------------------:|:-------------------------:
