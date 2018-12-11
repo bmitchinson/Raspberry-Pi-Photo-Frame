@@ -1,2 +1,11 @@
-# Raspberry-Pi-Photo-Frame
-A series of background scripts for enabling a raspberry pi to download photos from a gmail account. Completed in May 2017 for mothers day. Looking back I would have done things a lot differently, but having only taken one CS course at the time, was proud of the result. Still in use today at home.
+# Raspberry Pi Photo Frame 
+### (Original date: 5/14/2017)
+#### More information + photos on my [blog post here](https://benmitchinson.com/2017/05/14/Raspberry-Pi-Photo-Frame/)
+
+Start (Day 1)             |  Final (Day 3)
+:-------------------------:|:-------------------------:
+![](https://res.cloudinary.com/dheqbiqti/image/upload/v1544512046/Projects/PhotoFrame/IMG_0229.jpg)  |  ![](https://res.cloudinary.com/dheqbiqti/image/upload/v1544512051/Projects/PhotoFrame/IMG_0405.jpg)
+
+Created as a mother's day gift, this script enables a Raspberry Pi to download all images in a specific folder of a Gmail account. My family uses it to all email photos from our phones to a dedicated account, and the script refreshes it's local cache of all of them, then uses OSMC to display them all as a wallpaper.
+
+Detailed in the blog post linked above, but this script isn't the best. One of my first projects.
